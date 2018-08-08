@@ -1,3 +1,3 @@
 defined_class	defined_class_label	entity	entity_label
 MP:0013442	Harderian atrophy	UBERON:0004187	Harderian gland
-TEST:0000001	astrocyte atrophy	CL_0000127 	astrocyte
+TEST:0000001	astrocyte atrophy	CL:0000127 	astrocyte
